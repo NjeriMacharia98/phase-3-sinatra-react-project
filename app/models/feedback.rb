@@ -1,3 +1,4 @@
-class Hotel < ActiveRecord::Base
-  has_many :feedbacks 
-end
+class Feedback < ActiveRecord::Base
+    belongs_to :hotel
+  end
+  
