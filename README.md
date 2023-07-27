@@ -27,7 +27,7 @@ This is an application that enable users to post, give feedback and likes for th
   4)After dependancies have been installed run
     $ bundle exec rake server
   This will run your server on port
-[http://localhost:9292](http://localhost:9292).  
+[http://localhost:9292/hotels](http://localhost:9292/hotels).  
 
 Backend repo : https://github.com/NjeriMacharia98/phase-3-sinatra-react-project
   ## Technology-Used
