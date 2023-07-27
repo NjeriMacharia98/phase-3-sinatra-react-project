@@ -1,10 +1,16 @@
 # Frontend-End Repository
 https://github.com/NjeriMacharia98/HotelHub
 
-# Description
-This is an application that enable users to post, give feedback and likes for the different hotels they visited. These ratings and information will help an individual to ease in choosing hotels whenever they are travelling across Africa.
 
 
+# Home Page
+ ![image](./app/assets/image1.png)
+
+# Posting Page
+ ![image](./app/assets/image2.png)
+
+ # Display page with feedbacks and likes
+ ![image](./app/assets/image3.png)
  
 ## Project-Setup-Instructions
   ## Frontend
